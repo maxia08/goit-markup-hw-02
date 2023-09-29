@@ -4,6 +4,7 @@ body {
     color: #434455;
     }
     .header {
+        font-family: "Raleway", sans-serif;
         background: var(--WHITE, #FFF);
     }
     .header-navigation {
@@ -154,6 +155,7 @@ line-height: 1.5; /* 150% */
 letter-spacing: 0.32px;
     }
     .footer {
+        font-family: "Raleway", sans-serif;
         background: var(--NAVY-BLUE, #2E2F42);
     }
 
