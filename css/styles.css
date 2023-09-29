@@ -1,0 +1,189 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    color: #434455;
+    }
+    .header {
+        background: var(--WHITE, #FFF);
+    }
+    .header-navigation {
+
+    }
+
+    .header-logo {
+        color: var(--IRIS, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+    }
+    .header-logo-black {
+        color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17; /* 116.667% */
+letter-spacing: 0.54px;
+text-transform: uppercase;
+    }
+    .header-menu {
+    }
+    .header-menu-list {
+    }
+    .header-menu-link {
+        color: var(--NAVY-BLUE, #2E2F42);
+/* Body Medium */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 21.5; /* 150% */
+letter-spacing: 0.32px;
+    }
+    .header-address {
+    }
+    .header-address-menu {
+    }
+    .address-menu-mail {
+        color: var(--SLATE, #434455);
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.32px;
+    }
+    .address-menu-telephone {
+        color: var(--SLATE, #434455);
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.32px;
+    }
+    .hero {
+        background: var(--NAVY-BLUE, #2E2F42);
+    }
+    .title {
+        color: var(--WHITE, #FFF);
+text-align: center;
+/* Header 1 */
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.07; /* 107.143% */
+letter-spacing: 1.12px;
+    }
+    .button {
+        cursore: pointer;
+    }
+    .features {
+        background: #FFF;
+    }
+    .feature-list {
+    }
+    .feature-item {
+    }
+    .feature-subtitle {
+        color: var(--NAVY-BLUE, #2E2F42);
+/* Header 3 */
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.4px;
+    }
+    .feature-item-text {
+        color: var(--SLATE, #434455);
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.32px;
+    }
+    .team {
+        background: var(--CLOUD, #F4F4FD);
+    }
+    .team-title {
+        color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+/* Header 2 */
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 111.111% */
+letter-spacing: 0.72px;
+text-transform: capitalize;
+    }
+    .team-title-list {
+    }
+    .team-title-name {
+    }
+    .team-subtitle {
+        color: var(--NAVY-BLUE, #101ad9);
+text-align: center;
+/* Header 3 */
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.4px;
+    }
+    .team-text {
+        color: var(--SLATE, #434455);
+text-align: center;
+/* Body */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.32px;
+    }
+    .footer {
+        background: var(--NAVY-BLUE, #2E2F42);
+    }
+
+    .footer-logo {
+        color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17; /* 116.667% */
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+    .footer-logo-white {
+        color: var(--CLOUD, #F4F4FD);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.17; /* 116.667% */
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+    }
+    .footer-text {
+        color: var(--CLOUD, #F4F4FD);
+        /* Body */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.32px;       
+    }
