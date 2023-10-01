@@ -6,7 +6,7 @@ body {
 /**=================================================================**/
 /**========================header================================**/
 header {
-  background-color: var(--WHITE, #fff);
+  background-color: var(--WHITE, #ffffff);
 }
 .header-navigation {
 }
@@ -110,6 +110,8 @@ hero-button-link:hover {
 hero-button-link:focus {
   background-color: #404bbf;
 }
+/**=================================================================**/
+/**=======================features==================================**/
 
 features {
   background-color: #ffffff;
