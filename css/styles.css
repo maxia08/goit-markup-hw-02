@@ -68,10 +68,10 @@ header {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.menu-link:hover {
+.address-menu-link:hover {
   color: #404bbf;
 }
-.menu-link:focus {
+.address-menu-link {
   color: #404bbf;
 }
 
