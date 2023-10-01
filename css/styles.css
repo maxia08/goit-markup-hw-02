@@ -87,13 +87,13 @@ hero {
 }
 .title {
   color: var(--WHITE, #fff);
+  text-align: center;
   /* Header 1 */
   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.07; /* 107.143% */
-  text-align: center;
+  line-height: 1.07px; /* 107.143% */
   letter-spacing: 0.02em;
 }
 .button {
@@ -104,10 +104,10 @@ hero {
   color: #ffffff;
   cursor: pointer;
 }
-hero button-link:hover {
+hero-button-link:hover {
   background-color: #404bbf;
 }
-hero button-link:focus {
+hero-button-link:focus {
   background-color: #404bbf;
 }
 
