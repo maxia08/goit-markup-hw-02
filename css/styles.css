@@ -86,7 +86,7 @@ hero {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 .title {
-  color: var(--WHITE, #fff);
+  color: var(--WHITE, #ffffff);
   text-align: center;
   /* Header 1 */
   font-family: Roboto;
@@ -112,7 +112,7 @@ hero-button-link:focus {
 }
 
 features {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .feature-list {
 }
