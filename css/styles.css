@@ -92,8 +92,8 @@ letter-spacing: 0.02em;
         color: #ffffff;
         cursor: pointer;
     }
-hero button-link:hover {background-color: #404BBF}
-hero button-link:focus {background-color: #404BBF}
+hero-button-link:hover {background-color: #404BBF}
+hero-button-link:focus {background-color: #404BBF}
 
     features {
         background-color: #FFF;
