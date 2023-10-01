@@ -32,9 +32,9 @@ line-height: 1.17; /* 116.667% */
 letter-spacing: 0.03em;
 text-transform: uppercase;
     }
-    .header-menu:focus { color: #404bbf}
+    .header-menu:focus { color: #404bbf;}
     
-    .header-menu-list:focus { color: #404bbf}
+    .header-menu-list:focus { color: #404bbf;}
     .header-menu-link
     { color: var(--NAVY-BLUE, #2E2F42);
 /* Body Medium */
@@ -45,8 +45,8 @@ font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
     }
-.header-menu-link:hover {color: #404bbf}
-.header-menu-link:focus {color: #404bbf}
+.header-menu-link:hover {color: #404bbf;}
+.header-menu-link:focus {color: #404bbf;}
 
     .header-address {font-style: normal}
     .header-address-menu {
@@ -92,8 +92,8 @@ letter-spacing: 0.02em;
         color: #ffffff;
         cursor: pointer;
     }
-hero-button-link:hover {background-color: #404BBF}
-hero-button-link:focus {background-color: #404BBF}
+hero button-link:hover {background-color: #404BBF;}
+hero button-link:focus {background-color: #404BBF;}
 
     features {
         background-color: #FFF;
