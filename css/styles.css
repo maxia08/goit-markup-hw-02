@@ -86,23 +86,26 @@ header {
   background-color: var(--NAVY-BLUE, #2e2f42);
 }
 .title {
-  color: var(--WHITE, #ffffff);
+  color: var(--WHITE, #fff);
   text-align: center;
   /* Header 1 */
   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.07px; /* 107.143% */
+  line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
 }
 .button {
   background-color: #4d5ae5;
+  color: var(--WHITE, #fff);
+  /* Button Text */
+  font-family: Roboto;
   font-size: 16px;
+  font-style: normal;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.04em;
-  color: #ffffff;
   cursor: pointer;
   font-family: inherit;
 }
