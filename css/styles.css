@@ -55,26 +55,23 @@ header {
   color: #404bbf;
 }
 
-.header-address {
+.header-contact {
   font-style: normal;
-}
-.header-address-menu {
 }
 
-.header-address-details {
-  color: var(--SLATE, #434455);
-  /* Body */
-  font-family: Roboto;
+.header-contact-menu {
+}
+
+.header-contact-details {
+  color: #434455;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address-details:hover {
-  color: #404bbf;
-}
-.header-address-details:focus {
+
+.header-contact-details:hover,
+.header-contact-details:focus {
   color: #404bbf;
 }
 
