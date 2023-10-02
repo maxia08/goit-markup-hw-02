@@ -109,13 +109,10 @@ header {
   cursor: pointer;
   font-family: inherit;
 }
-.button:hover {
+.hero-button:hover:hover {
   background-color: #404bbf;
 }
-.button:active {
-  background-color: #404bbf;
-}
-.button:focus {
+.hero-button:focus:focus {
   background-color: #404bbf;
 }
 /**=================================================================**/
