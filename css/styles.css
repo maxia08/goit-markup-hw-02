@@ -71,7 +71,7 @@ header {
 .address-menu-link:hover {
   color: #404bbf;
 }
-.address-menu-link {
+.address-menu-link:focus {
   color: #404bbf;
 }
 
@@ -104,10 +104,13 @@ header {
   color: #ffffff;
   cursor: pointer;
 }
-.hero-button-link:hover {
+.button:hover {
   background-color: #404bbf;
 }
-.hero-button-link:focus {
+.button:active {
+  background-color: #404bbf;
+}
+.button:focus {
   background-color: #404bbf;
 }
 /**=================================================================**/
