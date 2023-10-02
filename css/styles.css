@@ -61,7 +61,7 @@ header {
 .header-address-menu {
 }
 
-.address-menu-email {
+.header-address-details {
   color: var(--SLATE, #434455);
   /* Body */
   font-family: Roboto;
@@ -71,7 +71,7 @@ header {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.address-menu-telephone {
+.header-address-details {
   color: var(--SLATE, #434455);
   /* Body */
   font-family: Roboto;
@@ -81,10 +81,10 @@ header {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.header-address-menu:hover {
+.header-address-details:hover {
   color: #404bbf;
 }
-.header-address-menu:focus {
+.header-address-details:focus {
   color: #404bbf;
 }
 
