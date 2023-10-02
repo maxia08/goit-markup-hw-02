@@ -71,16 +71,6 @@ header {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
 }
-.header-address-details {
-  color: var(--SLATE, #434455);
-  /* Body */
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1.5; /* 150% */
-  letter-spacing: 0.02em;
-}
 .header-address-details:hover {
   color: #404bbf;
 }
