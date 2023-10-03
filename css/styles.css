@@ -20,7 +20,7 @@ header {
 .header-navigation {
 }
 
-.header-logo .footer-logo {
+.header-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -204,6 +204,16 @@ header {
 /**===============================footer===============================**/
 footer {
   background-color: #2e2f42;
+}
+
+.footer-logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17; /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .footer-logo-white {
