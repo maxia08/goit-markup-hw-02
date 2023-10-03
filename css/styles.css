@@ -15,7 +15,7 @@ a {
 }
 
 header {
-  background-color: var(--WHITE, #ffffff);
+  background-color: #ffffff;
 }
 .header-navigation {
 }
@@ -206,8 +206,6 @@ footer {
   background-color: #2e2f42;
 }
 
-.footer-logo {
-}
 .footer-logo-white {
   color: #f4f4fd;
 }
