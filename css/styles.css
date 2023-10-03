@@ -6,19 +6,22 @@ body {
 /**=================================================================**/
 /**========================header================================**/
 
-ul {list-style: none;
+ul {
+  list-style: none;
 }
 
-a {text-decoration: none;}
+a {
+  text-decoration: none;
+}
+
 header {
   background-color: var(--WHITE, #ffffff);
 }
 .header-navigation {
 }
 
-.header-logo
-.footer-logo  {
-  color:  #4d5ae5;
+.header-logo .footer-logo {
+  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -27,8 +30,8 @@ header {
   text-transform: uppercase;
 }
 .header-logo-black {
-  color:  #2e2f42;
-  
+  color: #2e2f42;
+}
 .header-menu:focus {
   color: #404bbf;
 }
@@ -37,7 +40,7 @@ header {
   color: #404bbf;
 }
 .header-menu-link {
-  color:  #2e2f42;
+  color: #2e2f42;
   /* Body Medium */
   font-size: 16px;
   font-weight: 500;
@@ -204,7 +207,6 @@ footer {
 }
 
 .footer-logo {
-
 }
 .footer-logo-white {
   color: #f4f4fd;
